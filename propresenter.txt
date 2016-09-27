@@ -1,0 +1,28 @@
+28 Reset Timer
+27 Stop Timer
+26 Start Timer
+25 Toggle Prop on/off
+24 Trigger Audio
+23 Select Audio Playlist
+22 Trigger Video/Image
+21 Select Video/Image Playlist
+20 Trigger Slide
+19 Select Playlist Item
+18 Select Playlist
+17 Rewind Timeline
+16 Stop Timeline
+15 Start Timeline
+14 Previous Slide
+13 Next Slide
+12 Previous Playlist Item
+11 Next Playlist Item
+10 Video: Pause
+9 Video: Play
+8 Video: Play / Pause
+7 Video: Go to Beginning
+6 Show Logo
+5 Clear Audio
+4 Clear Props
+3 Clear Background
+2 Clear Slide
+1 Clear All
